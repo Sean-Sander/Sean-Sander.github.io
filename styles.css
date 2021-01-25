@@ -6,6 +6,10 @@
     width:360px;
     height:480px;
 }
+.media img {
+    width:33vw;
+    height:33vh;
+}
 .text {
     color:red;
 }
