@@ -3,8 +3,7 @@
     grid-template-columns: 33% 33% 33%;
 }
 .media {
-    width:360px;
-    height:480px;
+    border:1pt;
 }
 .media img {
     width:33vw;
