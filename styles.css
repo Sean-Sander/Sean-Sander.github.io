@@ -32,3 +32,11 @@
     padding: 100px 200px;
     text-decoration: none;
 }
+.navbar li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+.navbar li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
