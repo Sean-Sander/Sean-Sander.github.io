@@ -1,9 +1,12 @@
 .container {
     display: grid;
 }
+.media {
+    
+}
 .text {
-
+    color:red;
 }
 .navbar {
-    
+
 }
