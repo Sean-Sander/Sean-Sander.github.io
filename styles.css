@@ -3,7 +3,8 @@
     grid-template-columns: 33% 33% 33%;
 }
 .media {
-    color:black;
+    width:360px;
+    height:480px;
 }
 .text {
     color:red;
