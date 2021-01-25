@@ -29,8 +29,9 @@
     display: block;
     max-width: 100%;
     color: #000;
-    padding: 100px 100px;
+    padding: 2.5vw 2.5vw;
     text-decoration: none;
+    text-align: center;
 }
 .navbar li a.active {
     background-color: #4CAF50;
