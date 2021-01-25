@@ -22,6 +22,6 @@
 }
 .navbar li a {
     display: block;
-    width: 60px;
+    max-width: 100%;
     color: red;
 }
