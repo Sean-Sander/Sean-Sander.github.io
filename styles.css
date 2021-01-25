@@ -23,4 +23,5 @@
 .navbar li a {
     display: block;
     width: 60px;
+    color: red;
 }
