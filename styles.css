@@ -3,7 +3,7 @@
     grid-template-columns: 33% 33% 33%;
 }
 .media {
-    border:1pt;
+    color:black;
 }
 .media img {
     width:33vw;
@@ -14,4 +14,9 @@
 }
 .navbar {
     color:black;
+}
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
