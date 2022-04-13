@@ -1,4 +1,4 @@
-const cards = require("./cards.json")
+import cards from "./cards.json";
 
 for (let card of cards['cards']) {
     console.log(card);
