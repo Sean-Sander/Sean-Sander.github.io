@@ -1,4 +1,4 @@
-import cards from "./cards.json";
+import cards from "./cards.json" assert { type: "json" };;
 
 for (let card of cards['cards']) {
     console.log(card);
