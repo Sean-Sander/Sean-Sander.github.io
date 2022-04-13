@@ -1,24 +1,24 @@
 {
     "cards": [
         {
-            "projectName": "",
-            "img": "",
-            "description": "",
-            "buttonOneName": "",
-            "buttonOneURL": "",
+            "projectName": "Middle-Square PRNG Method",
+            "img": "neumann.jpg",
+            "description": "Worked in a team of four to design and implement pseudo-random number generator algorithms. My algorithm was an implementation of John von Neumann's middle square method. Our algorithms were compared for efficiency and 'randomness' for sorting vectors. Completed for an open-ended C++ programming project.",
+            "buttonOneName": "View",
+            "buttonOneURL": "www.google.com",
             "buttonTwoName": "",
             "buttonTwoURL": "",
-            "time": ""
+            "time": "Spring 2021"
         },
         {
-            "projectName": "",
-            "img": "",
-            "description": "",
-            "buttonOneName": "",
-            "buttonOneURL": "",
+            "projectName": "Flappy Bird",
+            "img": "flappybird.png",
+            "description": "Using OpenGL and GLUT, my team of three worked together to make a replica of the Flappy Bird game. We split development tasks accordingly and worked to achieve functional identity to the infamous mobile game. Completed for an open-ended C++ programming project.",
+            "buttonOneName": "View",
+            "buttonOneURL": "www.google.com",
             "buttonTwoName": "",
             "buttonTwoURL": "",
-            "time": ""
+            "time": "Spring 2021"
         }
     ]
 }
