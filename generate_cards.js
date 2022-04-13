@@ -40,7 +40,7 @@ function buildCards(cards) {
                   <p class="card-text">${card.description}</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <a href="${card.buttonOneURL}" target="#" class="btn btn-sm btn-outline-secondary">${card.buttonOneName}</a>
+                      <a href="${card.buttonOneURL}" target="#" class="btn btn-sm btn-outline-secondary">View</a>
                       ${buttonTwo}
                     </div>
                     <small class="text-muted">${card.time}</small>
