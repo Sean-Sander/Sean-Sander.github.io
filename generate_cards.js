@@ -3,7 +3,7 @@ const cards = require("./cards.json")
 for (let card of cards['cards']) {
     console.log(card);
 
-    const thumbnail;
+    var thumbnail = "";
 
     if (card.img.length > 0) { 
         thumbnail = `<img src="${card.img}">`;
@@ -11,7 +11,7 @@ for (let card of cards['cards']) {
         thumbnail = `<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>`;
     }
 
-    const buttonTwo;
+    var buttonTwo = "";
 
     if (card.buttonTwoName.length > 0) {
         buttonTwo = `<a href="${card.buttonTwoURL}" target="#" class="btn btn-sm btn-outline-secondary">${card.buttonTwoeName}</a>`;
