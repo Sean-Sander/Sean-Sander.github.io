@@ -37,5 +37,7 @@ for (let card of cards['cards']) {
           </div>
         </div>
 `;
-    document.getElementById("cards").innerHTML += card_html;
+    if (typeof document !== "undefined") {
+        document.getElementById("cards").innerHTML += card_html;
+    }
 }
