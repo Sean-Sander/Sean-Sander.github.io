@@ -12,11 +12,11 @@
         },
         {
             "projectName": "Flappy Bird",
-            "img": "flappybird.png",
+            "img": "",
             "description": "Using OpenGL and GLUT, my team of three worked together to make a replica of the Flappy Bird game. We split development tasks accordingly and worked to achieve functional identity to the infamous mobile game. Completed for an open-ended C++ programming project.",
             "buttonOneName": "View",
             "buttonOneURL": "www.google.com",
-            "buttonTwoName": "",
+            "buttonTwoName": "Test",
             "buttonTwoURL": "",
             "time": "Spring 2021"
         }
