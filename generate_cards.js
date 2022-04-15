@@ -18,7 +18,7 @@ function buildCards(cards) {
         var thumbnail = "";
     
         if (card.img.length > 0) { 
-            thumbnail = `<img src="img/${card.img}">`;
+            thumbnail = `<img height="225" src="img/${card.img}">`;
         } else {
             thumbnail = `<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>`;
         }
@@ -32,7 +32,7 @@ function buildCards(cards) {
         }
     
         const card_html = `
-    <div class="col">
+    <div class="col d-flex align-items-stretch">
               <div class="card shadow-sm">
                 ${thumbnail}
     
