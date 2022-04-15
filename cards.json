@@ -1,6 +1,16 @@
 {
     "cards": [
         {
+            "projectName": "My Portfolio",
+            "img": "",
+            "description": "After about of year of not touching web dev, I decided that my portfolio would be a good way to get back into the swing of things. I designed and built this portfolio using Bootstrap, HTML, and JS. It's hosted on the free domain on my GitHub account. I programmatically build 'cards' on my projects using JS and JSON, to automate part of the process.",
+            "buttonOneName": "",
+            "buttonOneURL": "",
+            "buttonTwoName": "",
+            "buttonTwoURL": "",
+            "time": "Spring 2022"
+        },
+        {
             "projectName": "Middle-Square PRNG Method",
             "img": "neumann.jpg",
             "description": "Worked in a team of four to design and implement pseudo-random number generator algorithms. My algorithm was an implementation of John von Neumann's middle square method. Our algorithms were compared for efficiency and 'randomness' for sorting vectors. Completed for an open-ended C++ programming project.",
