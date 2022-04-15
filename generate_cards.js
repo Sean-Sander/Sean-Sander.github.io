@@ -36,9 +36,9 @@ function buildCards(cards) {
               <div class="card shadow-sm">
                 ${thumbnail}
     
-                <div class="card-body">
+                <div class="card-body d-flex flex-column">
                   <p class="card-text">${card.description}</p>
-                  <div class="d-flex justify-content-between align-items-center">
+                  <div class="d-flex justify-content-between align-items-center mt-auto">
                     <div class="btn-group">
                       <a href="${card.buttonOneURL}" target="#" class="btn btn-sm btn-outline-secondary">View</a>
                       ${buttonTwo}
