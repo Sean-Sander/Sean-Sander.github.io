@@ -26,7 +26,7 @@ function buildCards(cards) {
         var buttonTwo = "";
     
         if (card.buttonTwoName.length > 0) {
-            buttonTwo = `<a href="${card.buttonTwoURL}" target="#" class="btn btn-sm btn-outline-secondary">${card.buttonTwoeName}</a>`;
+            buttonTwo = `<a href="${card.buttonTwoURL}" target="#" class="btn btn-sm btn-outline-secondary">${card.buttonTwoName}</a>`;
         } else {
             buttonTwo = "";
         }
