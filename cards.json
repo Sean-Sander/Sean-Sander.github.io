@@ -30,7 +30,7 @@
         {
             "projectName": "Automated Image Classification",
             "img": "",
-            "description": "In a solo project, I designed a C++ program to automate the usage of a Python program I designed to use image classification. The C++ program take some parameters and then runs the Python program over the directory of subject images with whichever parameters, such as which class of object to classify.",
+            "description": "In a solo project, I designed a C++ program to automate the usage of a Python program I designed to use image classification. The C++ program takes some parameters and then runs the Python program over the directory of subject images with whichever parameters, such as which class of object to classify.",
             "buttonOneURL": "https://github.com/Sean-Sander/CS120-MPL-OpenCV",
             "buttonTwoName": "",
             "buttonTwoURL": "",
