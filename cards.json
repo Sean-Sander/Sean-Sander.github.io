@@ -3,8 +3,8 @@
         {
             "projectName": "My Portfolio",
             "img": "portfolio.jpg",
-            "description": "After about of year of not touching web dev, I decided that my portfolio would be a good way to get back into the swing of things. I designed and built this portfolio using Bootstrap, HTML, and JS. It's hosted on the free domain on my GitHub account. I programmatically build 'cards' on my projects using JS and JSON, to automate part of the process.",
-            "buttonOneURL": "",
+            "description": "After about a year of not touching web dev, I decided that my portfolio would be a good way to get back into the swing of things. I designed and built this portfolio using Bootstrap, HTML, and JS. It's hosted on the free domain on my GitHub account. I programmatically build 'cards' on my projects using JS and JSON, to automate part of the process.",
+            "buttonOneURL": "https://github.com/Sean-Sander/Sean-Sander.github.io",
             "buttonTwoName": "",
             "buttonTwoURL": "",
             "time": "Spring 2022"
@@ -21,7 +21,7 @@
         {
             "projectName": "Online Text Editor",
             "img": "texteditor.jpg",
-            "description": "In a team of two, we designed a website with a PHP front end and a C++ back end. The website is an online text editor with simple feature such as loading and saving, displaying file stats, and a light-hearted feature (we called Caveman) to make random sentences. The project was open-ended, with the only criteria being that it must use multiple programming languages.",
+            "description": "In a team of two, we designed a website with a PHP front end and a C++ back end. The website is an online text editor with simple features such as loading and saving, displaying file stats, and a light-hearted feature (we called Caveman) to make random sentences. The project was open-ended, with the only criteria being that it must use multiple programming languages.",
             "buttonOneURL": "https://github.com/Sean-Sander/CS120-MPL",
             "buttonTwoName": "Try it out",
             "buttonTwoURL": "https://dmelkumo.w3.uvm.edu/cs120/M3OEP-MPL-ssander-dmelkumo/start.php",
