@@ -48,7 +48,7 @@
         {
             "projectName": "Wearable Technology",
             "img": "wearable.png",
-            "description": "I combined my interests in hardware and software to design and build a wearable glove device. The glove features five flex sensors, an accelerometer, a gyroscope, an IR setup, and some buttons. A Raspberry Pi on the device works to distinguish gestures and map them to preprogrammed actions. In this implementation, the IR circuitry I made can be programmed from IR remotes and then replicate the signals when a specified gesture is detected. I completed this for my Computer Organization course and was featured in the 2020 CS Fair.",
+            "description": "I combined my interests in hardware and software to design and build a wearable glove device. The glove features five flex sensors, an accelerometer, a gyroscope, an IR setup, and some buttons. A Raspberry Pi on the device works to distinguish gestures and map them to preprogrammed actions. In this implementation, the IR circuitry I made can be programmed from IR remotes and then replicate the signals when a specified gesture is detected. I completed this for my Computer Organization course final project and was featured in the 2020 UVM CS Fair.",
             "buttonOneURL": "https://github.com/Sean-Sander/CS121-Wearable",
             "buttonTwoName": "Video",
             "buttonTwoURL": "https://www.youtube.com/watch?v=Qh8h_FCwmQs",
