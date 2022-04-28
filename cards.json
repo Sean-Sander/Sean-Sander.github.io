@@ -2,33 +2,57 @@
     "cards": [
         {
             "projectName": "My Portfolio",
-            "img": "",
+            "img": "portfolio.jpg",
             "description": "After about of year of not touching web dev, I decided that my portfolio would be a good way to get back into the swing of things. I designed and built this portfolio using Bootstrap, HTML, and JS. It's hosted on the free domain on my GitHub account. I programmatically build 'cards' on my projects using JS and JSON, to automate part of the process.",
-            "buttonOneName": "",
             "buttonOneURL": "",
             "buttonTwoName": "",
             "buttonTwoURL": "",
             "time": "Spring 2022"
         },
         {
-            "projectName": "Middle-Square PRNG Method",
-            "img": "neumann.jpg",
-            "description": "Worked in a team of four to design and implement pseudo-random number generator algorithms. My algorithm was an implementation of John von Neumann's middle square method. Our algorithms were compared for efficiency and 'randomness' for sorting vectors. Completed for an open-ended C++ programming project.",
-            "buttonOneName": "View",
-            "buttonOneURL": "www.google.com",
+            "projectName": "Flappy Bird",
+            "img": "flappybird.png",
+            "description": "Using OpenGL and GLUT, my team of three worked together to make a replica of the Flappy Bird game. We split development tasks accordingly and worked to achieve functional identity to the infamous mobile game. Completed for an open-ended C++ programming project.",
+            "buttonOneURL": "https://github.com/Sean-Sander/CS120-Graphics",
             "buttonTwoName": "",
             "buttonTwoURL": "",
             "time": "Spring 2021"
         },
         {
-            "projectName": "Flappy Bird",
+            "projectName": "Online Text Editor",
+            "img": "texteditor.jpg",
+            "description": "In a team of two, we designed a website with a PHP front end and a C++ back end. The website is an online text editor with simple feature such as loading and saving, displaying file stats, and a light-hearted feature (we called Caveman) to make random sentences. The project was open-ended, with the only criteria being that it must use multiple programming languages.",
+            "buttonOneURL": "https://github.com/Sean-Sander/CS120-MPL",
+            "buttonTwoName": "Try it out",
+            "buttonTwoURL": "https://dmelkumo.w3.uvm.edu/cs120/M3OEP-MPL-ssander-dmelkumo/start.php",
+            "time": "Spring 2021"
+        },
+        {
+            "projectName": "Automated Image Classification",
             "img": "",
-            "description": "Using OpenGL and GLUT, my team of three worked together to make a replica of the Flappy Bird game. We split development tasks accordingly and worked to achieve functional identity to the infamous mobile game. Completed for an open-ended C++ programming project.",
-            "buttonOneName": "View",
-            "buttonOneURL": "www.google.com",
-            "buttonTwoName": "Test",
+            "description": "In a solo project, I designed a C++ program to automate the usage of a Python program I designed to use image classification. The C++ program take some parameters and then runs the Python program over the directory of subject images with whichever parameters, such as which class of object to classify.",
+            "buttonOneURL": "https://github.com/Sean-Sander/CS120-MPL-OpenCV",
+            "buttonTwoName": "",
             "buttonTwoURL": "",
             "time": "Spring 2021"
+        },
+        {
+            "projectName": "Middle-Square PRNG Method",
+            "img": "neumann.jpg",
+            "description": "Worked in a team of four to design and implement pseudo-random number generator algorithms. My algorithm was an implementation of John von Neumann's middle square method. Our algorithms were compared for efficiency and 'randomness' for sorting vectors. Completed for an open-ended C++ programming project.",
+            "buttonOneURL": "https://github.com/Sean-Sander/CS120-Randomization",
+            "buttonTwoName": "",
+            "buttonTwoURL": "",
+            "time": "Spring 2021"
+        },
+        {
+            "projectName": "Wearable Technology",
+            "img": "",
+            "description": "I combined my interests in hardware and software to design and build a wearable glove device. The glove features five flex sensors, an accelerometer, a gyroscope, an IR setup, and some buttons. A Raspberry Pi on the device works to distinguish gestures and map them to preprogrammed actions. In this implementation, the IR circuitry I made can be programmed from IR remotes and then replicate the signals when a specified gesture is detected. I completed this for my Computer Organization course and was featured in the 2020 CS Fair.",
+            "buttonOneURL": "https://github.com/Sean-Sander/CS121-Wearable",
+            "buttonTwoName": "",
+            "buttonTwoURL": "",
+            "time": "Fall 2020"
         }
     ]
 }
