@@ -30,7 +30,7 @@
         {
             "projectName": "Automated Image Classification",
             "img": "",
-            "description": "In a solo project, I designed a C++ program to automate the usage of a Python program I designed to use image classification. The C++ program take some parameters and then runs the Python program over the directory of subject images with whichever parameters, such as which class of object to classify.",
+            "description": "In a solo project, I designed a C++ program to automate the usage of a Python program I designed to use image classification. The C++ program takes some parameters and then runs the Python program over the directory of subject images with whichever parameters, such as which class of object to classify.",
             "buttonOneURL": "https://github.com/Sean-Sander/CS120-MPL-OpenCV",
             "buttonTwoName": "",
             "buttonTwoURL": "",
@@ -47,12 +47,21 @@
         },
         {
             "projectName": "Wearable Technology",
-            "img": "",
-            "description": "I combined my interests in hardware and software to design and build a wearable glove device. The glove features five flex sensors, an accelerometer, a gyroscope, an IR setup, and some buttons. A Raspberry Pi on the device works to distinguish gestures and map them to preprogrammed actions. In this implementation, the IR circuitry I made can be programmed from IR remotes and then replicate the signals when a specified gesture is detected. I completed this for my Computer Organization course and was featured in the 2020 CS Fair.",
+            "img": "wearable.png",
+            "description": "I combined my interests in hardware and software to design and build a wearable glove device. The glove features five flex sensors, an accelerometer, a gyroscope, an IR setup, and some buttons. A Raspberry Pi on the device works to distinguish gestures and map them to preprogrammed actions. In this implementation, the IR circuitry I made can be programmed from IR remotes and then replicate the signals when a specified gesture is detected. I completed this for my Computer Organization course final project and was featured in the 2020 UVM CS Fair.",
             "buttonOneURL": "https://github.com/Sean-Sander/CS121-Wearable",
+            "buttonTwoName": "Video",
+            "buttonTwoURL": "https://www.youtube.com/watch?v=Qh8h_FCwmQs",
+            "time": "Fall 2020"
+        },
+        {
+            "projectName": "Beatles Fansite",
+            "img": "beatles.png",
+            "description": "For my first ever web design course I decided to put the HTML, CSS, and JS that I learned to make a Beatles fansite. The site contains some pages for select albums, with each page featuring sections with handpicked songs and blurbs about the albums. I like to look back on the project to see how much more I've learnt since making it.",
+            "buttonOneURL": "http://sps04030.classweb.ccv.edu/finalproject/index.html",
             "buttonTwoName": "",
             "buttonTwoURL": "",
-            "time": "Fall 2020"
+            "time": "Fall 2018"
         }
     ]
 }
