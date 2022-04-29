@@ -13,8 +13,6 @@ xmlhttp.send();
 
 function buildCards(cards) {
     for (let card of cards['cards']) {
-        console.log(card);
-    
         var thumbnail = "";
     
         if (card.img.length > 0) { 
