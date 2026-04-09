@@ -1,6 +1,15 @@
 {
     "cards": [
         {
+            "projectName": "Discord Music Bot",
+            "img": "discord.png",
+            "description": "Wanting to make my own solution to the problem of streaming music with friends, I made a personal-use Discord bot that provides a user interface for playing audio files ripped programmatically from YouTube. The bot provides basic track controls, such as skipping tracks, managing and viewing the queue, and viewing the history. There are flavor features as well such as a Magic 8-Ball mode and N-sided die rolling. The real complexity lies in managing a state per user request, such that the bot can be flooded with requests before then processing them sequentially and without failure.",
+            "buttonOneURL": "https://github.com/Sean-Sander/DiscordBot",
+            "buttonTwoName": "",
+            "buttonTwoURL": "",
+            "time": "2025-"
+        },
+        {
             "projectName": "My Portfolio",
             "img": "portfolio.jpg",
             "description": "After about a year of not touching web dev, I decided that my portfolio would be a good way to get back into the swing of things. I designed and built this portfolio using Bootstrap, HTML, and JS. It's hosted on the free domain on my GitHub account. I programmatically build 'cards' on my projects using JS and JSON, to automate part of the process.",
